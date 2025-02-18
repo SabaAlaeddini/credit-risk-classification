@@ -21,9 +21,11 @@ Predict loan risk using the test set.
 Compute a confusion matrix and classification report.
 Analyze accuracy, precision, and recall for each label.
 # Results
-Accuracy: High overall model performance.
-Healthy Loans (0): Excellent precision and recall.
-High-Risk Loans (1): Slight room for improvement in classification.
+- Accuracy: High overall model performance.
+
+- Healthy Loans (0): Excellent precision and recall.
+
+- High-Risk Loans (1): Slight room for improvement in classification.
 # Conclusion
 The model demonstrates strong predictive capabilities, making it a viable tool for credit risk assessment. While it accurately identifies healthy loans, some misclassification of high-risk loans exists. Further optimization could improve performance.
 
