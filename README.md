@@ -1,10 +1,10 @@
 # credit-risk-classification
 Module 20 Challenge
 # Credit Risk Analysis with Logistic Regression
-- Overview
+# Overview
 This project applies Logistic Regression to assess credit risk by predicting whether loans are healthy (0) or high-risk (1). The goal is to evaluate the model’s effectiveness in classifying loan statuses.
 
-- Steps
+# Steps
 1. Data Preparation
 
 Load lending_data.csv into a Pandas DataFrame.
@@ -18,13 +18,13 @@ Predict loan risk using the test set.
 
 Compute a confusion matrix and classification report.
 Analyze accuracy, precision, and recall for each label.
-- Results
+# Results
 Accuracy: High overall model performance.
 Healthy Loans (0): Excellent precision and recall.
 High-Risk Loans (1): Slight room for improvement in classification.
-- Conclusion
+# Conclusion
 The model demonstrates strong predictive capabilities, making it a viable tool for credit risk assessment. While it accurately identifies healthy loans, some misclassification of high-risk loans exists. Further optimization could improve performance.
 
-- Requirements
+# Requirements
 Python Libraries: pandas, sklearn, numpy, matplotlib
 Data Source: lending_data.csv
