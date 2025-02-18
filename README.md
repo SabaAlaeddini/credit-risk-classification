@@ -31,4 +31,5 @@ The model demonstrates strong predictive capabilities, making it a viable tool f
 
 # Requirements
 Python Libraries: pandas, sklearn, numpy, matplotlib
+
 Data Source: lending_data.csv
